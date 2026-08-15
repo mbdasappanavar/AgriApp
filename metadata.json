@@ -1,0 +1,6 @@
+{
+  "name": "Shri Revanasiddeshwara Agro Center, Kalaghatagi",
+  "description": "Agri Input Retail ERP & Point-of-Sale System for Shri Revanasiddeshwara Agro Center, Kalaghatagi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
